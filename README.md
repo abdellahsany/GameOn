@@ -1,7 +1,4 @@
-## Projet GameOn
-
----
-
+# Projet GameOn
 ## ⚙️ Stacks techniques
 
 - [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML) : Structure sémantique du formulaire  
