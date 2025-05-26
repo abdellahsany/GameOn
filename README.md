@@ -1,10 +1,6 @@
 # Projet GameOn
 
-## Reprendre et finaliser le développement Front-End du formulaire d’inscription aux concours de la société GameOn, dans une landing page responsive. Le travail incluait la validation complète des champs, l’amélioration de l’UX, la gestion de la modale, et l’affichage d’une page de remerciement.
-
-Reprendre et finaliser le développement Front-End du formulaire d’inscription aux concours de la société GameOn, dans une landing page responsive. Le travail incluait la validation complète des champs, l’amélioration de l’UX, la gestion de la modale, et l’affichage d’une page de remerciement.
-
-## ⚙️ Stack technique
+## ⚙️ Stacks techniques
 
 - [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML) : Structure sémantique du formulaire  
 - [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Mise en page responsive et animations  
