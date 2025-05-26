@@ -1,6 +1,6 @@
 # Projet GameOn
 
-![Cover](https://github.com/abdellahsany/GameOn/blob/main/assets/homepage.png)<p align="center">
+<p align="center">
   <img src="./assets/homepage.png" alt="Page d’accueil GameOn" width="600">
 </p>
 
