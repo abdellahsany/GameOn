@@ -2,10 +2,10 @@
 
 [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML) : Structure sémantique du formulaire  
 [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Mise en page responsive et animations  
-- [![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript) : Validation dynamique via le DOM  
-- [![UX](https://img.shields.io/badge/UX-Dynamique%20et%20accessible-green)]() : Expérience utilisateur optimisée, messages contextuels  
-- [![Responsive](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)]() : Adapté aux écrans mobiles  
-- [![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/) : Démo disponible en ligne
+[![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript) : Validation dynamique via le DOM  
+[![UX](https://img.shields.io/badge/UX-Dynamique%20et%20accessible-green)]() : Expérience utilisateur optimisée, messages contextuels  
+[![Responsive](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)]() : Adapté aux écrans mobiles  
+[![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/) : Démo disponible en ligne
 
 ---
 
