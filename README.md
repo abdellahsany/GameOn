@@ -2,8 +2,6 @@
 
 [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML)  
 [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)  
-👉 Mise en page responsive et animations
-
 [![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript)  
 👉 Validation dynamique via le DOM
 
