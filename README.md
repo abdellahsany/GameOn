@@ -1,8 +1,6 @@
 # Projet GameOn
 
 [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML)  
-👉 Structure sémantique du formulaire
-
 [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)  
 👉 Mise en page responsive et animations
 
