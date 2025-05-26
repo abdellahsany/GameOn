@@ -1,7 +1,9 @@
 # Projet GameOn
-gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+
+---
+
+## ⚙️ Stacks techniques
+
 ---
 
 ## ⚙️ Stacks techniques
