@@ -1,8 +1,4 @@
-Parfait ! Voici la **fiche projet finale** avec le lien vers la version en ligne, prête à être utilisée dans ton portfolio ou directement dans ton `README.md`.
-
----
-
-# 🎮 GameOn
+# Projet GameOn
 
 **Conception d'une landing page avec formulaire modal en JavaScript**
 [![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/)
