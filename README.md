@@ -98,3 +98,8 @@ Et si tu veux aller plus loin : je peux aussi t’ajouter un visuel de présenta
 # GameOn
 Conception d'une landing page avec JavaScript
 https://abdellahsany.github.io/GameOn/
+
+## 🔗 Accès au projet
+
+Le projet est disponible en ligne sur :                                                                                                                          
+https://abdellahsany.github.io/GameOn/
