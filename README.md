@@ -1,6 +1,6 @@
 # Projet GameOn
 
-**Conception d'une landing page avec formulaire modal en JavaScript : **
+Conception d'une landing page avec formulaire modal en JavaScript :
 
 [![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/)
 [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML)
