@@ -1,5 +1,4 @@
 ## Projet GameOn
-
 ---
 
 ## ⚙️ Stacks techniques
