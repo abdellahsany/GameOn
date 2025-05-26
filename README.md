@@ -83,23 +83,5 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ## 🔗 Accès au projet
 
-🌐 **Démo en ligne :**
-➡️ [https://abdellahsany.github.io/GameOn/](https://abdellahsany.github.io/GameOn/)
-
-📁 **Code source :**
-➡️ [GitHub – GameOn](https://github.com/abdellahsany/GameOn)
-
----
-
-Souhaites-tu que je t’envoie cette fiche au **format `README.md` prêt à copier dans ton dépôt GitHub** ?
-Et si tu veux aller plus loin : je peux aussi t’ajouter un visuel de présentation (mockup ou image Hero).
-
-
-# GameOn
-Conception d'une landing page avec JavaScript
-https://abdellahsany.github.io/GameOn/
-
-## 🔗 Accès au projet
-
 Le projet est disponible en ligne sur :                                                                                                                          
 https://abdellahsany.github.io/GameOn/
