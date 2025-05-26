@@ -6,7 +6,6 @@
 [![UX](https://img.shields.io/badge/UX-Dynamique%20et%20accessible-green)]()  
 [![Responsive](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)]()  
 [![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/)  
-👉 Démo disponible en ligne
 
 ---
 
