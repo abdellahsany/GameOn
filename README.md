@@ -11,7 +11,7 @@
 
 * [Mission](#mission)
 * [Objectif](#objectif)
-* [Présentation visuelle](#présentation-visuelle)
+* [Points forts de l’interface](#présentation-visuelle)
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
 * [Points techniques spécifiques](#points-techniques-spécifiques)
@@ -35,7 +35,7 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ---
 
-## 🖼️ Présentation visuelle
+## ✨ Points forts de l’interface
 
 * **Header** avec menu responsive (burger),
 * **Bloc “Hero”** avec slogan et bouton “Je m’inscris”,
