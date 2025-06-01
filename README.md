@@ -1,7 +1,7 @@
 # GameOn
 
 <p align="center">
-  <img src="./assets/homepage.png" alt="Page d’accueil GameOn" height="230px" width="100%">
+  <img src="./assets/homepage.png" alt="Page d’accueil GameOn" height="210px" width="100%">
 </p>
 
 
