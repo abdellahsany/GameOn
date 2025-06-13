@@ -1,7 +1,7 @@
 # GameOn
 
 <p align="center">
-  <img src="./assets/homepage.png" alt="Page d’accueil GameOn" height="225px" width="100%">
+  <img src="./assets/homepage.png" alt="Page d’accueil GameOn" height="100%" width="100%">
 </p>
 
 
@@ -84,16 +84,13 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ---
 
-## 🔗 Accès au projet par lien
-
-Le projet GameOn est disponible en ligne sur :                                                                                                                          
+## 🔗 Accès au projet par lien :
+                                                                                                                 
 https://abdellahsany.github.io/GameOn/
 
 ---
 
-## 📲 Accès rapide au projet par QR
-
-Scannez ce QR code pour accéder au projet GameOn :
+## 📲 Accès au projet par QR :
 
 <p align="left">
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
