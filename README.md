@@ -1,9 +1,8 @@
-# GameOn
+# *GameOn*
 
 <p align="center">
   <img src="./assets/homepage.png" alt="Page d’accueil GameOn" height="100%" width="100%">
 </p>
-
 
 ---
 
