@@ -84,7 +84,17 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ---
 
-## 🔗 Accès au projet
+## 🔗 Accès au projet par lien
 
-Le projet est disponible en ligne sur :                                                                                                                          
+Le projet GameOn est disponible en ligne sur :                                                                                                                          
 https://abdellahsany.github.io/GameOn/
+
+---
+
+## 📲 Accès rapide au projet par QR
+
+Scannez ce QR code pour accéder au projet GameOn :
+
+<p align="left">
+  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
+</p>
