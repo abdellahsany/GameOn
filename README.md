@@ -96,5 +96,5 @@ https://abdellahsany.github.io/GameOn/
 Scannez ce QR code pour accéder au projet GameOn :
 
 <p align="left">
-  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
+  <img src="https://github.com/abdellahsany/Kasa/blob/main/src/assets/images/frameKasa.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px" style="border-radius: 25px;">
 </p>
