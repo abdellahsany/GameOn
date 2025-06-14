@@ -46,10 +46,10 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 * [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML)
 * [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![UX](https://img.shields.io/badge/UX-Dynamique%20et%20accessible-green)]()
-[![Responsive](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)]() 
-[![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/)
+* [![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+* [![UX](https://img.shields.io/badge/UX-Dynamique%20et%20accessible-green)]()
+* [![Responsive](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)]() 
+* [![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/)
 
 ---
 
