@@ -85,7 +85,7 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ## 🔗 Accès au projet par lien :
 
-[![Cliquez ici](https://img.shields.io/badge/voir_GameOn-0088cc?style=for-the-badge&logo=github)](https://abdellahsany.github.io/GameOn/)
+[![GameOn Project Preview](https://example.com/monimage.png)](https://abdellahsany.github.io/GameOn/)
 
 ---
 
