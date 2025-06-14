@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Mission
+## 🎯 Mission <a name="mission"></a>
 
 Reprendre et finaliser le développement Front-End du formulaire d’inscription aux concours de la société *GameOn*, dans une landing page responsive. Le travail incluait la validation complète des champs, l’amélioration de l’UX, la gestion de la modale, et l’affichage d’une page de remerciement.
 
@@ -93,7 +93,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 📲 Accès au projet par QR {#accès-au-projet-par-qr}:
+## 📲 Accès au projet par QR :
 
 <p align="left">
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="55px" width="55px">
