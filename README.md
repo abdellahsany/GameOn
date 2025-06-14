@@ -88,9 +88,6 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur (2).png" alt="Cliquez ici" height="60px" width="60px"/>
 </a>
 
-<p align="left">
-<img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="60px" width="60px">
-</p>
 ---
 
 ## 📲 Accès au projet par QR :
@@ -98,13 +95,3 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 <p align="left">
 <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="60px" width="60px">
 </p>
-
-<div style="display: flex; align-items: center;">
-  <a href="https://abdellahsany.github.io/GameOn/">
-    <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur%20(2).png" alt="Cliquez ici" height="60px" width="60px" />
-  </a>
-
-  <p align="left" style="margin-left: 10px;">
-    <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="60px" width="60px">
-  </p>
-</div>
