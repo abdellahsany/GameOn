@@ -85,8 +85,9 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ## 🔗 Accès au projet par lien :
 
-* [![Cliquez ici](https://img.shields.io/badge/Explore%20GameOn-FF5733?style=plastic&logo=github&logoColor=white)](https://abdellahsany.github.io/GameOn/)
-* [![Accès au projet](https://img.shields.io/badge/Acc%C3%A8s%20au%20projet-FF5733?style=for-the-badge&logo=link&logoColor=white)](https://abdellahsany.github.io/GameOn)
+[![Cliquez ici](https://img.shields.io/badge/Explore%20GameOn-FF5733?style=plastic&logo=github&logoColor=white)](https://abdellahsany.github.io/GameOn/)
+[![Accès au projet](https://img.shields.io/badge/Acc%C3%A8s%20au%20projet-FF5733?style=for-the-badge&logo=link&logoColor=white)](https://abdellahsany.github.io/GameOn)
+[![Accès au projet](https://img.shields.io/badge/Acc%C3%A8s%20au%20projet-FF5733?style=round&logo=link&logoColor=white)](https://abdellahsany.github.io/GameOn)
 
 ---
 
