@@ -171,12 +171,9 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 ---
 
 ## 🔗 Accès au projet *GameOn* :
-[![CLIQUEZ ICI](https://img.shields.io/badge/CLIQUEZ%20ICI-white?style=for-the-badge&logo=cursor&logoColor=black)](https://abdellahsany.github.io/GameOn/)
+
 [![👉 CLIQUEZ ICI](https://img.shields.io/badge/👉%20CLIQUEZ%20ICI-white?style=for-the-badge&logo=computer&logoColor=black)](https://abdellahsany.github.io/GameOn/)
 
-[![CLIQUEZ 👇 ICI](https://img.shields.io/badge/🔗%20GAMEON%20👇%20CLIQUE%20ICI-000000?style=for-the-badge&logo=opera&logoColor=white)](https://abdellahsany.github.io/GameOn/)
-
-[![Voir en ligne](https://img.shields.io/badge/Accès%20site%20GameOn-red)](https://abdellahsany.github.io/GameOn/)
 ---
 
 ## 📲 Accès au projet par QR :
