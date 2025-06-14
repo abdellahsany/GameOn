@@ -44,12 +44,12 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ## ⚙️ Stacks techniques
 
-* [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML)
-* [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
-* [![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-* [![UX](https://img.shields.io/badge/UX-Dynamique%20et%20accessible-green)]()
-* [![Responsive](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)]() 
-* [![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/)
+* [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML) : Utilisation des balises HTML5 pour structurer le formulaire  
+* [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Mise en page responsive adaptée à tous les écrans  
+* [![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript) : Validation des champs et interactions DOM dynamiques  
+* [![UX](https://img.shields.io/badge/UX-Dynamique%20et%20accessible-green)]() : Expérience utilisateur fluide, dynamique et accessible  
+* [![Responsive](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)]() : Conception mobile-first pour une bonne accessibilité sur smartphone  
+* [![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/) : Lien direct vers le projet hébergé en ligne
 
 ---
 
@@ -85,7 +85,7 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ## 🔗 Accès au projet par clic :
 
-* [![CLIQUEZ ICI](https://img.shields.io/badge/CLIQUEZ%20ICI-FF5733?style=circle&logo=link&logoColor=white)](https://abdellahsany.github.io/GameOn)
+[![CLIQUEZ ICI](https://img.shields.io/badge/CLIQUEZ%20ICI-FF5733?style=circle&logo=link&logoColor=white)](https://abdellahsany.github.io/GameOn)
 
 ---
 
