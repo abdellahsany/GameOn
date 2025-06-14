@@ -15,8 +15,8 @@
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalites-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
 * [Points techniques specifique](#points-techniques-specifique)
-* [Accès au projet par clic](#accès-au-projet-par-clic)
-* [Accès au projet par QR](#accès-au-projet-par-qr)
+* [Accès au projet par clic](#acces-au-projet-par-clic)
+* [Accès au projet par QR](#acces-au-projet-par-qr)
 
 ---
 
@@ -26,7 +26,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 🧭 Objectif
+## 🧭 Objectif <a name="objectif"></a>
 
 * Implémenter une interface moderne et dynamique,
 * Finaliser la logique de validation JavaScript,
@@ -35,7 +35,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ✨ Points forts de linterface
+## ✨ Points forts de linterface <a name="points-forts-de-linterface"></a>
 
 * **Header** avec menu responsive (burger),
 * **Bloc “Hero”** avec slogan et bouton “Je m’inscris”,
@@ -45,7 +45,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ⚙️ Stacks techniques
+## ⚙️ Stacks techniques <a name="stacks-techniques"></a>
 
 * [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML) : Utilisation des balises HTML5 pour structurer le formulaire  
 * [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Mise en page responsive adaptée à tous les écrans  
@@ -55,7 +55,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ✅ Fonctionnalités et bonnes pratiques techniques
+## ✅ Fonctionnalités et bonnes pratiques techniques <a name="fonctionnalites-et-bonnes-pratiques-techniques"></a>
 
 * Validation JavaScript des champs (prénom, nom, email, date, CGU, etc.),
 * Utilisation des APIs DOM (`querySelector`, `addEventListener`, etc.),
@@ -65,7 +65,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ⚙️ Aspects techniques et automatisation
+## ⚙️ Aspects techniques et automatisation <a name="aspects-techniques-et-automatisation"></a>
 
 * Structure claire et modulaire du code,
 * Séparation stricte : `index.html`, `style.css`, `form.js`,
@@ -75,7 +75,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 🧩 Points techniques specifique
+## 🧩 Points techniques specifique <a name="points-techniques-specifique"></a>
 
 * **Gestion dynamique de la modale** (ouverture/fermeture),
 * **Validation complète du formulaire** sans rechargement de la page,
@@ -85,7 +85,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 🔗 Accès au projet par clic :
+## 🔗 Accès au projet par clic <a name="acces-au-projet-par-clic"></a>:
 
 <a href="https://abdellahsany.github.io/GameOn/">
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur%20(2).png" alt="Cliquez ici" height="55px" width="55px"/>
@@ -93,7 +93,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 📲 Accès au projet par QR :
+## 📲 Accès au projet par QR <a name="acces-au-projet-par-qr"></a>:
 
 <p align="left">
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="55px" width="55px">
