@@ -10,11 +10,11 @@
 
 * [Mission](#mission)
 * [Objectif](#objectif)
-* [Points forts de l’interface](#points-forts-de-linterface)
+* [Points forts de linterface](#points-forts-de-linterface)
 * [Stacks techniques](#stacks-techniques)
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalites-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
-* [Points techniques spécifiques](#points-techniques-specifiques)
+* [Points techniques specifique](#points-techniques-specifique)
 * [Accès au projet par clic](#accès-au-projet-par-clic)
 * [Accès au projet par QR](#accès-au-projet-par-qr)
 
@@ -22,8 +22,7 @@
 
 ## 🎯 Mission
 
-Reprendre et finaliser le développement Front-End du formulaire d’inscription aux concours de la société *GameOn*, dans une landing page responsive.
-Le travail incluait la validation complète des champs, l’amélioration de l’UX, la gestion de la modale, et l’affichage d’une page de remerciement.
+Reprendre et finaliser le développement Front-End du formulaire d’inscription aux concours de la société *GameOn*, dans une landing page responsive. Le travail incluait la validation complète des champs, l’amélioration de l’UX, la gestion de la modale, et l’affichage d’une page de remerciement.
 
 ---
 
@@ -36,7 +35,7 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ---
 
-## ✨ Points forts de l’interface
+## ✨ Points forts de linterface
 
 * **Header** avec menu responsive (burger),
 * **Bloc “Hero”** avec slogan et bouton “Je m’inscris”,
@@ -51,7 +50,7 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 * [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML) : Utilisation des balises HTML5 pour structurer le formulaire  
 * [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Mise en page responsive adaptée à tous les écrans  
 * [![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript) : Validation des champs et interactions DOM dynamiques  
-* [![UX](https://img.shields.io/badge/UX-Dynamique%20et%20accessible-green)]() : Expérience utilisateur fluide, dynamique et accessible  
+* [![UX](https://img.shields.io/badge/UX-Dynamique%20et%20Accessible-green)]() : Expérience utilisateur fluide, dynamique et accessible  
 * [![Responsive](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)]() : Conception mobile-first pour une bonne accessibilité sur smartphone  
 
 ---
@@ -76,7 +75,7 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ---
 
-## 🧩 Points techniques spécifiques
+## 🧩 Points techniques specifique
 
 * **Gestion dynamique de la modale** (ouverture/fermeture),
 * **Validation complète du formulaire** sans rechargement de la page,
@@ -97,5 +96,5 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 ## 📲 Accès au projet par QR :
 
 <p align="left">
-<img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="55px" width="55px">
+  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="55px" width="55px">
 </p>
