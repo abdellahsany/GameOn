@@ -97,7 +97,7 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 ---
 
 <a href="https://abdellahsany.github.io/GameOn/">
-  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/internet (1).png" alt="Cliquez ici" height="51px" width="51px"/>
+  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur (2).png" alt="Cliquez ici" height="51px" width="51px"/>
 </a>
 
 ---
