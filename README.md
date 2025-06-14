@@ -85,12 +85,12 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ## 🔗 Accès au projet par lien :
 
-## ⮎ # https://abdellahsany.github.io/GameOn/
+## ⮎ https://abdellahsany.github.io/GameOn/
 
 ---
 
 ## 📲 Accès au projet par QR :
 
 <p align="left">
-  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
+## ⮎  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
 </p>
