@@ -14,8 +14,7 @@
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
 * [Points techniques spécifiques](#points-techniques-spécifiques)
-* [Accès au projet](#accès-au-projet)
-
+  
 ---
 
 ## 🎯 Mission
