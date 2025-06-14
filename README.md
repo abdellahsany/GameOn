@@ -89,6 +89,10 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 [![CLIQUEZ ICI](https://img.shields.io/badge/CLIQUEZ%20ICI-FF5733?style=circle&logo=link&logoColor=white)](https://abdellahsany.github.io/GameOn)
 
+<a href="https://abdellahsany.github.io/GameOn/" style="cursor: pointer;">
+    <img src="https://img.shields.io/badge/CLIQUEZ%20ICI-FF5733?style=circle&logo=link&logoColor=white" alt="CLIQUEZ ICI"/>
+</a>
+
 ---
 
 ## 📲 Accès au projet par QR :
