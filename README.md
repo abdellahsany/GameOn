@@ -10,12 +10,12 @@
 
 * [Mission](#mission)
 * [Objectif](#objectif)
-* [Points forts de l’interface](#présentation-visuelle)
+* [Points forts de l’interface](#points-forts-de-linterface)
 * [Stacks techniques](#stacks-techniques)
-* [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
+* [Fonctionnalités et bonnes pratiques techniques](#fonctionnalites-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
-* [Points techniques spécifiques](#points-techniques-spécifiques)
-* [Accès au projet par clic](#accès-au-projet-par-click)
+* [Points techniques spécifiques](#points-techniques-specifiques)
+* [Accès au projet par clic](#accès-au-projet-par-clic)
 * [Accès au projet par QR](#accès-au-projet-par-qr)
 
 ---
@@ -43,6 +43,8 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 * **Modale d’inscription** affichée dynamiquement,
 * **Formulaire complet** avec feedback utilisateur,
 * **Page de remerciement** élégante et stylisée.
+
+---
 
 ## ⚙️ Stacks techniques
 
@@ -84,10 +86,10 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ---
 
-## 🔗 Accès au projet par click :
+## 🔗 Accès au projet par clic :
 
 <a href="https://abdellahsany.github.io/GameOn/">
-  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur (2).png" alt="Cliquez ici" height="55px" width="55px"/>
+  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur%20(2).png" alt="Cliquez ici" height="55px" width="55px"/>
 </a>
 
 ---
