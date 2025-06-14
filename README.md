@@ -83,10 +83,8 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ---
 
-## 🔗 Accès au projet par lien :
+## 🔗 Accès au projet par lien : https://abdellahsany.github.io/GameOn/
                                                                                                                  
-https://abdellahsany.github.io/GameOn/
-
 ---
 
 ## 📲 Accès au projet par QR :
