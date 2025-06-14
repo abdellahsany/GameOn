@@ -172,17 +172,9 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ## 🔗 Accès au projet *GameOn* :
 
-[![🔗 GAMEON 👇 CLIQUE ICI](https://img.shields.io/badge/🔗%20GAMEON%20👇%20CLIQUE%20ICI-000000?style=for-the-badge&logo=opera&logoColor=white)](https://abdellahsany.github.io/GameOn/)
+(https://img.shields.io/badge/🔗%20GAMEON%20👇%20CLIQUE%20ICI-000000?style=for-the-badge&logo=opera&logoColor=white)](https://abdellahsany.github.io/GameOn/)
 
----
-
-## 📲 Accès au projet par QR :
-
-<p align="left">
-<img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
-</p>
-
-
+[![Voir en ligne](https://img.shields.io/badge/Accès%20site%20GameOn-red)](https://abdellahsany.github.io/GameOn/)
 ---
 
 ## 📲 Accès au projet par QR :
