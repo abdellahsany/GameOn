@@ -93,7 +93,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 📲 Accès au projet par QR :
+## 📲 Accès au projet par QR {#accès-au-projet-par-qr}:
 
 <p align="left">
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="55px" width="55px">
