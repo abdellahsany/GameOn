@@ -91,13 +91,13 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 ---
 
 <a href="https://abdellahsany.github.io/GameOn/">
-  <img src="https://img.shields.io/badge/👉%20CLIQUEZ%20ICI-white?style=for-the-badge&logo=computer&logoColor=black" alt="CLIQUEZ ICI" width="125"/>
+  <img src="https://img.shields.io/badge/👉%20CLIQUEZ%20ICI-white?style=for-the-badge&logo=computer&logoColor=black" alt="CLIQUEZ ICI" width="100"/>
 </a>
 
 ---
 
 <a href="https://abdellahsany.github.io/GameOn/">
-  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/internet (1).png" alt="Cliquez ici" width="125"/>
+  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/internet (1).png" alt="Cliquez ici" height="70px" width="70px"/>
 </a>
 
 ---
