@@ -85,10 +85,8 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 ## 🔗 Accès au projet par clic :
 
-[Accès au projet](#accès-au-projet)
-
-* [Accès au projet](#accès-au-projet)
-
+* [![Voir en ligne](https://img.shields.io/badge/Accès%20au%20site-GameOn-red)](https://abdellahsany.github.io/GameOn/) : Lien direct vers le projet hébergé en ligne
+  
 ---
 
 ## 📲 Accès au projet par QR :
