@@ -8,7 +8,7 @@
 
 ## 📑 Table des matières
 
-* [Mission](#mission)
+[Mission](#mission)
 [Objectif](#objectif)
 [Points forts de l’interface](#présentation-visuelle)
 [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
