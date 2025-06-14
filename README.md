@@ -11,9 +11,12 @@
 * [Mission](#mission)
 * [Objectif](#objectif)
 * [Points forts de l’interface](#présentation-visuelle)
+* [Stacks techniques](#stacks-techniques)
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
 * [Points techniques spécifiques](#points-techniques-spécifiques)
+* [Accès au projet par clic](#accès-au-projet-par-click)
+* [Accès au projet par QR](#accès-au-projet-par-qr)
 
 ---
 
