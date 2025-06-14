@@ -91,13 +91,13 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 ---
 
 <a href="https://abdellahsany.github.io/GameOn/">
-  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/internet (1).png" alt="Cliquez ici" height="53px" width="53px"/>
+  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/internet (1).png" alt="Cliquez ici" height="51px" width="51px"/>
 </a>
 
 ---
 
 <a href="https://abdellahsany.github.io/GameOn/">
-  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/internet (1).png" alt="Cliquez ici" height="53px" width="53px"/>
+  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/internet (1).png" alt="Cliquez ici" height="51px" width="51px"/>
 </a>
 
 ---
