@@ -88,6 +88,17 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur (2).png" alt="Cliquez ici" height="60px" width="60px"/>
 </a>
 
+<a href="https://abdellahsany.github.io/GameOn/">
+  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur%20(2).png" alt="Cliquez ici" height="60px" width="60px" style="transition: all 0.3s ease;"/>
+</a>
+
+<style>
+  a img:hover {
+    transform: scale(1.1); /* Agrandir l'image légèrement */
+    opacity: 0.8; /* Réduire l'opacité */
+  }
+</style>
+
 ---
 
 ## 📲 Accès au projet par QR :
