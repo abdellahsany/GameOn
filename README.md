@@ -87,6 +87,8 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 
 [Accès au projet](#accès-au-projet)
 
+* [Accès au projet](#accès-au-projet)
+
 ---
 
 ## 📲 Accès au projet par QR :
