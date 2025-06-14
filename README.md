@@ -94,5 +94,3 @@ Le travail incluait la validation complète des champs, l’amélioration de l�
 <p align="left">
 <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="70px" width="70px">
 </p>
-
-[![CLIQUEZ ICI](https://img.shields.io/badge/CLIQUEZ%20ICI-FF5733?style=circle&logo=link&logoColor=white)](https://abdellahsany.github.io/GameOn)
