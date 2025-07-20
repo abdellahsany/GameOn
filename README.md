@@ -47,7 +47,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ## 📚 Technologies utilisées <a name="technologies-utilisees"></a>
 
-| Technologies | Description |
+| Technologies | Descriptions |
 |-------------|-------------|
 | [![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)](https://developer.mozilla.org/fr/docs/Web/HTML) | Utilisation des balises HTML5 pour structurer le formulaire |
 | [![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) | Mise en page responsive adaptée à tous les écrans |
