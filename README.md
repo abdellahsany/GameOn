@@ -45,7 +45,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 📚 Technologies utilisées <a name="technologies-utilisees"></a>
+## 📚 Stacks techniques <a name="stacks-techniques"></a>
 
 | Technologies | Descriptions |
 |-------------|-------------|
