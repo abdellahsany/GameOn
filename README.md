@@ -26,7 +26,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ---
 
-## 🧭 Objectif
+## 🧭 Objectifs
 
 - Développer une interface moderne et accessible  
 - Finaliser la logique JavaScript de validation  
