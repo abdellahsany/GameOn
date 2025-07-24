@@ -57,9 +57,9 @@ Travail réalisé :
 |-------------|----------|
 | ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=flat-square) | Structuration sémantique du formulaire |
 | ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=flat-square) | Responsive design via media queries |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=flat-square) | Interactions DOM & validation dynamique |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=white&style=flat-square) | Interactions DOM & validation dynamique |
 | ![UX](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility&logoColor=white&style=flat-square) | Expérience fluide et clavier-compatible |
-| ![Mobile](https://img.shields.io/badge/Mobile--First-Approche-lightgrey?logo=apple&logoColor=black&style=flat-square) | Conception pensée pour les petits écrans |
+| ![Mobile](https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=flat-square) | Conception pensée pour les petits écrans |
 
 ---
 
