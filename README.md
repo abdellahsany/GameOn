@@ -47,13 +47,12 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ## 📚 Stacks techniques <a name="stacks-techniques"></a>
 
-|  |  |
 |:--|--|
 | ![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange)                    | Utilisation des balises HTML5 pour structurer le formulaire |
-| ![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)               | Mise en page responsive adaptée à tous les écrans               |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)   | Validation dynamique des champs et interactions DOM             |
+| ![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue)               | Mise en page responsive adaptée à tous les écrans |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow)   | Validation dynamique des champs et interactions DOM |
 | ![UX](https://img.shields.io/badge/UX-Dynamique%20et%20Accessible-brightgreen)   | Expérience utilisateur fluide, modale animée et accessibilité clavier |
-| ![Mobile](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)          | Conception mobile-first pour compatibilité optimale             |
+| ![Mobile](https://img.shields.io/badge/Mobile-First%20Design-lightgrey)          | Conception mobile-first pour compatibilité optimale |
 
 ---
 
