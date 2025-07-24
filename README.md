@@ -8,15 +8,15 @@
 
 ## 📑 Table des matières
 
-- [🎯 Mission](#🎯-mission)
-- [🧭 Objectif](#🧭-objectif)
-- [✨ Points forts de l’interface](#✨-points-forts-de-linterface)
-- [🛠️ Stacks techniques](#🛠️-stacks-techniques)
-- [✅ Fonctionnalités et bonnes pratiques](#✅-fonctionnalités-et-bonnes-pratiques)
-- [⚙️ Aspects techniques & automatisation](#⚙️-aspects-techniques--automatisation)
-- [🔍 Points techniques spécifiques](#🔍-points-techniques-spécifiques)
-- [🔗 Accès par clic](#🔗-accès-par-clic)
-- [📲 Accès par QR code](#📲-accès-par-qr-code)
+[🎯 Mission](#🎯-mission)
+[🧭 Objectif](#🧭-objectif)
+[✨ Points forts de l’interface](#✨-points-forts-de-linterface)
+[🛠️ Stacks techniques](#🛠️-stacks-techniques)
+[✅ Fonctionnalités et bonnes pratiques](#✅-fonctionnalités-et-bonnes-pratiques)
+[⚙️ Aspects techniques & automatisation](#⚙️-aspects-techniques--automatisation)
+[🔍 Points techniques spécifiques](#🔍-points-techniques-spécifiques)
+[🔗 Accès par clic](#🔗-accès-par-clic)
+[📲 Accès par QR code](#📲-accès-par-qr-code)
 
 ---
 
