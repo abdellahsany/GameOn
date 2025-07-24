@@ -53,19 +53,13 @@ Travail réalisé :
 
 ## 🛠️ Stacks techniques
 
-## 🛠️ Stacks techniques
-
-<div align="center">
-
 | Technologie | Fonction |
 |-------------|----------|
-| ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic) | Structuration sémantique du formulaire |
-| ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic) | Responsive design via media queries |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=white&style=plastic) | Interactions DOM & validation dynamique |
-| ![UX](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility&logoColor=white&style=plastic) | Expérience fluide et clavier-compatible |
-| ![Mobile](https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic) | Conception pensée pour les petits écrans |
-
-</div>
+| <img src="./assets/html5-badge.png" height="30"> | Structuration sémantique du formulaire |
+| <img src="./assets/css3-badge.png" height="30"> | Responsive design via media queries |
+| <img src="./assets/js-badge.png" height="30"> | Interactions DOM & validation dynamique |
+| <img src="./assets/ux-badge.png" height="30"> | Expérience fluide et clavier-compatible |
+| <img src="./assets/mobile-badge.png" height="30"> | Conception pensée pour les petits écrans |
 
 ---
 
