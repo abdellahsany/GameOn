@@ -85,6 +85,8 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 - Accessibilité via clavier et lecteurs d’écran  
 
 ---
-## 🔗 Lancer la démo
+## 🔗 Live démo
 
-[![Démo Live](https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white)](https://abdellahsany.github.io/GameOn/)
+<a href="https://abdellahsany.github.io/GameOn/" target="_blank">
+  <img src="https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white" alt="Démo GameOn" width="200" height="40">
+</a>
