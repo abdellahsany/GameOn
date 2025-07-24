@@ -47,7 +47,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ## 🛠️ Stacks techniques
 
-| Technologie | Fonction |
+|Technologie |Fonction |
 |-------------|----------|
 | ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic) | Structuration sémantique du formulaire |
 | ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic) | Responsive design via media queries |
