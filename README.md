@@ -97,11 +97,3 @@ Travail réalisé :
 <a href="https://abdellahsany.github.io/GameOn/" target="_blank">
   <img src="https://img.shields.io/badge/Démo%20Live-Cliquez%20ici-blue?logo=githubpages&style=for-the-badge">
 </a>
-
----
-
-## 📲 Accès par QR code
-
-<p align="left">
-  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code GameOn" height="120px">
-</p>
