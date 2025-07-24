@@ -53,13 +53,13 @@ Travail réalisé :
 
 ## 🛠️ Stacks techniques
 
-| Technologie | Fonction |
-|------------|----------|
-| ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5) | Structuration sémantique du formulaire |
-| ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3) | Responsive design via media queries |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript) | Interactions DOM & validation dynamique |
-| ![UX Design](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility) | Expérience fluide et clavier-compatible |
-| ![Mobile First](https://img.shields.io/badge/Mobile--First-Approach-lightgrey?logo=mobile) | Conception pensée pour les petits écrans |
+| Technologie    | Fonction                                              |
+|----------------|-------------------------------------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white) | Structuration sémantique du formulaire |
+| ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white) | Responsive design via media queries |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black) | Interactions DOM & validation dynamique |
+| ![UX](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility&logoColor=white) | Expérience fluide et clavier-compatible |
+| ![Mobile](https://img.shields.io/badge/Mobile--First-Approche-lightgrey?logo=apple&logoColor=black) | Conception pensée pour les petits écrans |
 
 ---
 
