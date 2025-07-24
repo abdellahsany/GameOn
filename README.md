@@ -38,11 +38,11 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 
 ## ✨ Points forts de l’interface
 
-✅ Menu **burger responsive**  
-✅ Bloc **Hero** avec slogan et CTA  
-✅ **Modale d’inscription** animée  
-✅ **Formulaire UX-friendly** avec validation en direct  
-✅ **Page de remerciement** élégante  
+- Menu **burger responsive**  
+- Bloc **Hero** avec slogan et CTA  
+- **Modale d’inscription** animée  
+- **Formulaire UX-friendly** avec validation en direct  
+- **Page de remerciement** élégante  
 
 ---
 
