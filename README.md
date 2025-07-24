@@ -53,6 +53,10 @@ Travail réalisé :
 
 ## 🛠️ Stacks techniques
 
+## 🛠️ Stacks techniques
+
+<div align="center">
+
 | Technologie | Fonction |
 |-------------|----------|
 | ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic) | Structuration sémantique du formulaire |
@@ -60,6 +64,8 @@ Travail réalisé :
 | ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=white&style=plastic) | Interactions DOM & validation dynamique |
 | ![UX](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility&logoColor=white&style=plastic) | Expérience fluide et clavier-compatible |
 | ![Mobile](https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic) | Conception pensée pour les petits écrans |
+
+</div>
 
 ---
 
