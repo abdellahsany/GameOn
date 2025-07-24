@@ -77,7 +77,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 🧩 Points techniques specifique <a name="points-techniques-specifique"></a>
+## 🧩 Points techniques spécifiques <a name="points-techniques-specifiques"></a>
 
 * **Gestion dynamique de la modale** (ouverture/fermeture),
 * **Validation complète du formulaire** sans rechargement de la page,
