@@ -45,7 +45,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 📚 Stacks techniques <a name="stacks-techniques"></a>
+## 📚Stacks techniques <a name="stacks-techniques"></a>
 
 | **Technologie** | **Fonctionnalité mise en œuvre** |
 |:--|:--|
@@ -57,7 +57,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ✅ Fonctionnalités et bonnes pratiques techniques <a name="fonctionnalites-et-bonnes-pratiques-techniques"></a>
+## ✅Fonctionnalités et bonnes pratiques techniques <a name="fonctionnalites-et-bonnes-pratiques-techniques"></a>
 
 * Validation JavaScript des champs (prénom, nom, email, date, CGU, etc.),
 * Utilisation des APIs DOM (`querySelector`, `addEventListener`, etc.),
@@ -67,7 +67,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ⚙️ Aspects techniques et automatisation <a name="aspects-techniques-et-automatisation"></a>
+## ⚙️Aspects techniques et automatisation <a name="aspects-techniques-et-automatisation"></a>
 
 * Structure claire et modulaire du code,
 * Séparation stricte : `index.html`, `style.css`, `form.js`,
@@ -77,7 +77,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 🧩 Points techniques spécifiques <a name="points-techniques-specifiques"></a>
+## 🧩Points techniques spécifiques <a name="points-techniques-specifiques"></a>
 
 * **Gestion dynamique de la modale** (ouverture/fermeture),
 * **Validation complète du formulaire** sans rechargement de la page,
@@ -87,7 +87,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 🔗 Accès au projet par clic <a name="acces-au-projet-par-clic"></a> :
+## 🔗Accès au projet par clic <a name="acces-au-projet-par-clic"></a> :
 
 <a href="https://abdellahsany.github.io/GameOn/">
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur%20(2).png" alt="Cliquez ici" height="55px" width="55px"/>
