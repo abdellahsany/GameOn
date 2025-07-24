@@ -87,4 +87,4 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 ---
 ## 🔗 Accès au projet
 
-[![Voir la démo](https://img.shields.io/badge/Démo_Live-Cliquez_ici-0d6efd?style=for-the-badge&logo=githubpages&logoColor=white)](https://abdellahsany.github.io/GameOn/)
+[![Démo Live](https://img.shields.io/badge/Démo_Live-Cliquez_ici-grey?style=plastic&logo=githubpages&logoColor=white)](https://abdellahsany.github.io/GameOn/)
