@@ -94,8 +94,4 @@ Travail réalisé :
 
 ## 🔗 Accès au projet
 
-<p align="center">
-  <a href="https://abdellahsany.github.io/GameOn/" target="_blank">
-    <img src="https://img.shields.io/badge/Démo%20Live-Cliquez%20ici-blue?logo=githubpages&style=for-the-badge">
-  </a>
-</p>
+[![Démo Live](./assets/btn-demo.png)](https://abdellahsany.github.io/GameOn/)
