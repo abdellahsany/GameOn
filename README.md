@@ -53,36 +53,13 @@ Travail réalisé :
 
 ## 🛠️ Stacks techniques
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left;">Technologie</th>
-      <th style="text-align:left;">Fonction</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=flat-square" style="border-radius:10px 0 10px 0;"></td>
-      <td>Structuration sémantique du formulaire</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=flat-square" style="border-radius:10px 0 10px 0;"></td>
-      <td>Responsive design via media queries</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=white&style=flat-square" style="border-radius:10px 0 10px 0;"></td>
-      <td>Interactions DOM & validation dynamique</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility&logoColor=white&style=flat-square" style="border-radius:10px 0 10px 0;"></td>
-      <td>Expérience fluide et clavier-compatible</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=flat-square" style="border-radius:10px 0 10px 0;"></td>
-      <td>Conception pensée pour les petits écrans</td>
-    </tr>
-  </tbody>
-</table>
+| Technologie | Fonction |
+|-------------|----------|
+| ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic) | Structuration sémantique du formulaire |
+| ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic) | Responsive design via media queries |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=white&style=plastic) | Interactions DOM & validation dynamique |
+| ![UX](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility&logoColor=white&style=plastic) | Expérience fluide et clavier-compatible |
+| ![Mobile](https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic) | Conception pensée pour les petits écrans |
 
 ---
 
