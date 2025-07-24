@@ -8,8 +8,6 @@
 
 ## 📑 Table des matières
 
-## 📑 Table des matières
-
 [🎯 Mission](#mission)  
 [🧭 Objectif](#objectif)  
 [✨ Points forts de l’interface](#points-forts-de-linterface)  
