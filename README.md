@@ -14,7 +14,7 @@
 * [Stacks techniques](#stacks-techniques)
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalites-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
-* [Points techniques specifique](#points-techniques-specifique)
+* [Points techniques specifiques](#points-techniques-specifique)
 * [Accès au projet par clic](#acces-au-projet-par-clic)
 * [Accès au projet par QR](#acces-au-projet-par-qr)
 
