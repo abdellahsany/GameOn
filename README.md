@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Mission <a name="mission"></a>
+## 🎯Mission <a name="mission"></a>
 
 Reprendre et finaliser le développement Front-End du formulaire d’inscription aux concours de la société *GameOn*, dans une landing page responsive. Le travail incluait la validation complète des champs, l’amélioration de l’UX, la gestion de la modale, et l’affichage d’une page de remerciement.
 
