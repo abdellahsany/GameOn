@@ -6,7 +6,7 @@
 
 ---
 
-## 📑Table des matières
+## 📑 Table des matières
 
 * [Mission](#mission)
 * [Objectif](#objectif)
@@ -20,13 +20,13 @@
 
 ---
 
-## 🎯Mission <a name="mission"></a>
+## 🎯 Mission <a name="mission"></a>
 
 Reprendre et finaliser le développement Front-End du formulaire d’inscription aux concours de la société *GameOn*, dans une landing page responsive. Le travail incluait la validation complète des champs, l’amélioration de l’UX, la gestion de la modale, et l’affichage d’une page de remerciement.
 
 ---
 
-## 🧭Objectif <a name="objectif"></a>
+## 🧭 Objectif <a name="objectif"></a>
 
 * Implémenter une interface moderne et dynamique,
 * Finaliser la logique de validation JavaScript,
@@ -35,7 +35,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ✨Points forts de linterface <a name="points-forts-de-linterface"></a>
+## ✨ Points forts de linterface <a name="points-forts-de-linterface"></a>
 
 * **Header** avec menu responsive (burger),
 * **Bloc “Hero”** avec slogan et bouton “Je m’inscris”,
@@ -45,7 +45,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 📚Stacks techniques <a name="stacks-techniques"></a>
+## 📚 Stacks techniques <a name="stacks-techniques"></a>
 
 | **Technologie** | **Fonctionnalité mise en œuvre** |
 |:--|:--|
@@ -57,7 +57,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ✅Fonctionnalités et bonnes pratiques techniques <a name="fonctionnalites-et-bonnes-pratiques-techniques"></a>
+## ✅ Fonctionnalités et bonnes pratiques techniques <a name="fonctionnalites-et-bonnes-pratiques-techniques"></a>
 
 * Validation JavaScript des champs (prénom, nom, email, date, CGU, etc.),
 * Utilisation des APIs DOM (`querySelector`, `addEventListener`, etc.),
@@ -67,7 +67,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ⚙️Aspects techniques et automatisation <a name="aspects-techniques-et-automatisation"></a>
+## ⚙️ Aspects techniques et automatisation <a name="aspects-techniques-et-automatisation"></a>
 
 * Structure claire et modulaire du code,
 * Séparation stricte : `index.html`, `style.css`, `form.js`,
@@ -77,7 +77,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 🧩Points techniques spécifiques <a name="points-techniques-specifiques"></a>
+## 🧩 Points techniques spécifiques <a name="points-techniques-specifiques"></a>
 
 * **Gestion dynamique de la modale** (ouverture/fermeture),
 * **Validation complète du formulaire** sans rechargement de la page,
@@ -87,7 +87,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 🔗Accès au projet par clic <a name="acces-au-projet-par-clic"></a> :
+## 🔗 Accès au projet par clic <a name="acces-au-projet-par-clic"></a> :
 
 <a href="https://abdellahsany.github.io/GameOn/">
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur%20(2).png" alt="Cliquez ici" height="55px" width="55px"/>
@@ -95,7 +95,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-### 📲Accès au projet par QR <a name="acces-au-projet-par-qr"></a> :
+## 📲 Accès au projet par QR <a name="acces-au-projet-par-qr"></a> :
 
 <p align="left">
   <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="55px" width="55px">
