@@ -1,102 +1,107 @@
-# *GameOn*
+## *GameOn*
 
 <p align="center">
-  <img src="./assets/2025-06-14_01h21_47.png" alt="Page d’accueil GameOn" height="100%" width="100%">
+  <img src="./assets/2025-06-14_01h21_47.png" alt="Page d’accueil GameOn" width="100%">
 </p>
 
 ---
 
 ## 📑 Table des matières
 
-* [Mission](#mission)
-* [Objectif](#objectif)
-* [Points forts de linterface](#points-forts-de-linterface)
-* [Stacks techniques](#stacks-techniques)
-* [Fonctionnalités et bonnes pratiques techniques](#fonctionnalites-et-bonnes-pratiques-techniques)
-* [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
-* [Points techniques specifiques](#points-techniques-specifique)
-* [Accès au projet par clic](#acces-au-projet-par-clic)
-* [Accès au projet par QR](#acces-au-projet-par-qr)
+- [🎯 Mission](#🎯-mission)
+- [🧭 Objectif](#🧭-objectif)
+- [✨ Points forts de l’interface](#✨-points-forts-de-linterface)
+- [🛠️ Stacks techniques](#🛠️-stacks-techniques)
+- [✅ Fonctionnalités et bonnes pratiques](#✅-fonctionnalités-et-bonnes-pratiques)
+- [⚙️ Aspects techniques & automatisation](#⚙️-aspects-techniques--automatisation)
+- [🔍 Points techniques spécifiques](#🔍-points-techniques-spécifiques)
+- [🔗 Accès par clic](#🔗-accès-par-clic)
+- [📲 Accès par QR code](#📲-accès-par-qr-code)
 
 ---
 
-## 🎯 Mission <a name="mission"></a>
+## 🎯 Mission
 
-Reprendre et finaliser le développement Front-End du formulaire d’inscription aux concours de la société *GameOn*, dans une landing page responsive. Le travail incluait la validation complète des champs, l’amélioration de l’UX, la gestion de la modale, et l’affichage d’une page de remerciement.
+Reprendre et finaliser le développement **Front-End** du formulaire d’inscription aux concours de la société **GameOn**, dans une landing page responsive.
 
----
-
-## 🧭 Objectif <a name="objectif"></a>
-
-* Implémenter une interface moderne et dynamique,
-* Finaliser la logique de validation JavaScript,
-* Assurer la compatibilité responsive,
-* Garantir la clarté et la modularité du code (HTML / CSS / JS).
+Travail réalisé :
+- Validation complète des champs,
+- Amélioration de l’UX/UI,
+- Gestion dynamique de la modale,
+- Affichage d’une page de remerciement.
 
 ---
 
-## ✨ Points forts de linterface <a name="points-forts-de-linterface"></a>
+## 🧭 Objectif
 
-* **Header** avec menu responsive (burger),
-* **Bloc “Hero”** avec slogan et bouton “Je m’inscris”,
-* **Modale d’inscription** affichée dynamiquement,
-* **Formulaire complet** avec feedback utilisateur,
-* **Page de remerciement** élégante et stylisée.
-
----
-
-## 📚 Stacks techniques <a name="stacks-techniques"></a>
-
-| **Technologie** | **Fonctionnalité mise en œuvre** |
-|:--|:--|
-| ![HTML](https://img.shields.io/badge/HTML5-Formulaire-orange) | Utilisation des balises HTML5 pour structurer le formulaire |
-| ![CSS](https://img.shields.io/badge/CSS3-Responsive%20Design-blue) | Mise en page responsive adaptée à tous les écrans |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation%20DOM-yellow) | Validation dynamique des champs et interactions DOM |
-| ![UX](https://img.shields.io/badge/UX-Dynamique%20et%20Accessible-brightgreen) | Expérience utilisateur fluide, modale animée et accessibilité clavier |
-| ![Mobile](https://img.shields.io/badge/Mobile-First%20Design-lightgrey) | Conception mobile-first pour compatibilité optimale |
+- Développer une interface moderne et accessible,
+- Finaliser la logique JavaScript de validation,
+- Assurer une compatibilité mobile/tablette/desktop,
+- Structurer le code de manière claire et modulaire.
 
 ---
 
-## ✅ Fonctionnalités et bonnes pratiques techniques <a name="fonctionnalites-et-bonnes-pratiques-techniques"></a>
+## ✨ Points forts de l’interface
 
-* Validation JavaScript des champs (prénom, nom, email, date, CGU, etc.),
-* Utilisation des APIs DOM (`querySelector`, `addEventListener`, etc.),
-* Système de gestion d’erreurs personnalisé via `data-error-visible`,
-* Utilisation d’animations CSS pour la modale,
-* Messages de confirmation dynamiques et clairs.
-
----
-
-## ⚙️ Aspects techniques et automatisation <a name="aspects-techniques-et-automatisation"></a>
-
-* Structure claire et modulaire du code,
-* Séparation stricte : `index.html`, `style.css`, `form.js`,
-* Code **entièrement commenté** et réutilisable,
-* Responsive design via **media queries** (jusqu’à 280px),
-* Projet hébergé sur GitHub Pages.
+- ✅ Menu **burger responsive**
+- ✅ Bloc **Hero** avec slogan et CTA
+- ✅ **Modale d’inscription** animée
+- ✅ **Formulaire UX-friendly** avec validation en direct
+- ✅ **Page de remerciement** élégante
 
 ---
 
-## 🧩 Points techniques spécifiques <a name="points-techniques-specifiques"></a>
+## 🛠️ Stacks techniques
 
-* **Gestion dynamique de la modale** (ouverture/fermeture),
-* **Validation complète du formulaire** sans rechargement de la page,
-* Contrôle de l’âge via `Date().getFullYear()` pour vérifier les 18 ans,
-* Comportements spécifiques aux champs radios, checkboxes, inputs,
-* Composants accessibles, y compris pour clavier et lecteurs d’écran.
+| Technologie | Fonction |
+|------------|----------|
+| ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5) | Structuration sémantique du formulaire |
+| ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3) | Responsive design via media queries |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript) | Interactions DOM & validation dynamique |
+| ![UX Design](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility) | Expérience fluide et clavier-compatible |
+| ![Mobile First](https://img.shields.io/badge/Mobile--First-Approach-lightgrey?logo=mobile) | Conception pensée pour les petits écrans |
 
 ---
 
-## 🔗 Accès au projet par clic <a name="acces-au-projet-par-clic"></a> :
+## ✅ Fonctionnalités et bonnes pratiques
 
-<a href="https://abdellahsany.github.io/GameOn/">
-  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/cliquez-sur%20(2).png" alt="Cliquez ici" height="55px" width="55px"/>
+- Validation JavaScript complète : prénom, email, date, CGU, etc.
+- Utilisation avancée du DOM : `querySelector`, `addEventListener`, etc.
+- Gestion d’erreurs personnalisée via `data-error-visible`
+- Animations CSS pour la modale
+- Feedback utilisateur en temps réel
+
+---
+
+## ⚙️ Aspects techniques & automatisation
+
+- Code modulaire et bien commenté
+- Séparation des fichiers : `index.html`, `style.css`, `form.js`
+- Responsive jusqu’à **280px**
+- Hébergement GitHub Pages
+
+---
+
+## 🔍 Points techniques spécifiques
+
+- Gestion dynamique de l’ouverture/fermeture de la **modale**
+- Validation des données **sans rechargement de page**
+- Vérification d’âge (18 ans) avec `Date().getFullYear()`
+- Comportements différenciés pour **radio / checkbox / input**
+- Accessibilité via clavier et lecteurs d’écran
+
+---
+
+## 🔗 Accès par clic
+
+<a href="https://abdellahsany.github.io/GameOn/" target="_blank">
+  <img src="https://img.shields.io/badge/Démo%20Live-Cliquez%20ici-blue?logo=githubpages&style=for-the-badge">
 </a>
 
 ---
 
-## 📲 Accès au projet par QR <a name="acces-au-projet-par-qr"></a> :
+## 📲 Accès par QR code
 
 <p align="left">
-  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code pour accéder au projet Kasa" height="55px" width="55px">
+  <img src="https://github.com/abdellahsany/GameOn/blob/main/assets/frameGameOn.png" alt="QR code GameOn" height="120px">
 </p>
