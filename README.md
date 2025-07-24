@@ -26,7 +26,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## 🧭 Objectif <a name="objectif"></a>
+## 🧭Objectif <a name="objectif"></a>
 
 * Implémenter une interface moderne et dynamique,
 * Finaliser la logique de validation JavaScript,
@@ -35,7 +35,7 @@ Reprendre et finaliser le développement Front-End du formulaire d’inscription
 
 ---
 
-## ✨ Points forts de linterface <a name="points-forts-de-linterface"></a>
+## ✨Points forts de linterface <a name="points-forts-de-linterface"></a>
 
 * **Header** avec menu responsive (burger),
 * **Bloc “Hero”** avec slogan et bouton “Je m’inscris”,
