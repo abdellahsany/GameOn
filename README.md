@@ -72,7 +72,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
       <td>Expérience fluide et clavier-compatible</td>
     </tr>
     <tr>
-      <td><div style="width:150px;"><img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=flat-square" alt="Mobile" style="width:140px; height:25px;"></div></td>
+      <td><div style="width:150px;"><img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=flat-square" alt="Mobile" style="width:140px; height:22px;"></div></td>
       <td>Conception pensée pour les petits écrans</td>
     </tr>
   </tbody>
