@@ -70,7 +70,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic"
                alt="CSS3"
-               style="width:160px; height:20px; border-radius:10px;">
+               style="width:140px; height:20px; border-radius:10px;">
         </div>
       </td>
       <td>Responsive design via media queries</td>
@@ -80,7 +80,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=plastic"
                alt="JavaScript"
-               style="width:160px; height:20px; border-radius:10px;">
+               style="width:140px; height:20px; border-radius:10px;">
         </div>
       </td>
       <td>Interactions DOM & validation dynamique</td>
@@ -90,7 +90,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=plastic"
                alt="UX"
-               style="width:160px; height:20px; border-radius:10px;">
+               style="width:140px; height:20px; border-radius:10px;">
         </div>
       </td>
       <td>Expérience fluide et clavier-compatible</td>
@@ -100,7 +100,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic"
                alt="Mobile"
-               style="width:160px; height:20px; border-radius:10px;">
+               style="width:140px; height:20px; border-radius:10px;">
         </div>
       </td>
       <td>Conception pensée pour les petits écrans</td>
@@ -141,5 +141,5 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 ### 🔗 Démo live
 
 <a href="https://abdellahsany.github.io/GameOn/" target="_blank">
-  <img src="https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white" alt="Démo live" width="160" height="20">
+  <img src="https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white" alt="Démo live" width="140" height="20">
 </a>
