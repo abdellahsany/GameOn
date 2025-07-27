@@ -56,23 +56,23 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=flat-square" alt="HTML5" width="150" height="35"></td>
+      <td><img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=flat-square" width="150" height="35" alt="HTML5"></td>
       <td>Structuration sémantique du formulaire</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=flat-square" alt="CSS3" width="100" height="35"></td>
+      <td><img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=flat-square" width="150" height="35" alt="CSS3"></td>
       <td>Responsive design via media queries</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" width="150" height="35"></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=flat-square" width="150" height="35" alt="JavaScript"></td>
       <td>Interactions DOM & validation dynamique</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=flat-square" alt="UX" width="150" height="35"></td>
+      <td><img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=flat-square" width="150" height="35" alt="UX"></td>
       <td>Expérience fluide et clavier-compatible</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=flat-square" alt="Mobile" width="150" height="35"></td>
+      <td><img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=flat-square" width="150" height="35" alt="Mobile-First"></td>
       <td>Conception pensée pour les petits écrans</td>
     </tr>
   </tbody>
