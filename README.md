@@ -79,7 +79,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
     <tr>
       <td>
         <img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=plastic&labelFontSize=12&messageFontSize=12"
-             alt="UX" width="120" height="15">
+             alt="UX" width="120" height="20px">
       </td>
       <td>Expérience fluide et clavier-compatible</td>
     </tr>
