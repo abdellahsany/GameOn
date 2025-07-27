@@ -57,51 +57,36 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
   <tbody>
     <tr>
       <td>
-        <div>
-          <img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
-               alt="HTML5"
-               style="width:130px; height:17px; border-radius:10px;">
-        </div>
+        <img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic&labelFontSize=12&messageFontSize=12"
+             alt="HTML5" width="120" height="20">
       </td>
       <td>Structuration sémantique du formulaire</td>
     </tr>
     <tr>
       <td>
-        <div>
-          <img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
-               alt="CSS3"
-               style="width:130px; height:17px; border-radius:10px;">
-        </div>
+        <img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic&labelFontSize=12&messageFontSize=12"
+             alt="CSS3" width="120" height="20">
       </td>
       <td>Responsive design via media queries</td>
     </tr>
     <tr>
       <td>
-        <div>
-          <img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
-               alt="JavaScript"
-               style="width:130px; height:17px; border-radius:10px;">
-        </div>
+        <img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=plastic&labelFontSize=12&messageFontSize=12"
+             alt="JavaScript" width="120" height="20">
       </td>
       <td>Interactions DOM & validation dynamique</td>
     </tr>
     <tr>
       <td>
-        <div>
-          <img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
-               alt="UX"
-               style="width:130px; height:17px; border-radius:10px;">
-        </div>
+        <img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=plastic&labelFontSize=12&messageFontSize=12"
+             alt="UX" width="120" height="20">
       </td>
       <td>Expérience fluide et clavier-compatible</td>
     </tr>
     <tr>
       <td>
-        <div>
-          <img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
-               alt="Mobile"
-               style="width:130px; height:17px; border-radius:10px;">
-        </div>
+        <img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic&labelFontSize=12&messageFontSize=12"
+             alt="Mobile" width="120" height="20">
       </td>
       <td>Conception pensée pour les petits écrans</td>
     </tr>
