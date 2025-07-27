@@ -56,23 +56,23 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic" alt="HTML5" width="50" height="35"></td>
+      <td><img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic" alt="HTML5" width="100%" height="35"></td>
       <td>Structuration sémantique du formulaire</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic" alt="CSS3" width="50" height="35"></td>
+      <td><img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic" alt="CSS3" width="100%" height="35"></td>
       <td>Responsive design via media queries</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=white&style=plastic" alt="JavaScript" width="50" height="35"></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=white&style=plastic" alt="JavaScript" width="100%" height="35"></td>
       <td>Interactions DOM & validation dynamique</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility&logoColor=white&style=plastic" alt="UX" width="50" height="35"></td>
+      <td><img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=accessibility&logoColor=white&style=plastic" alt="UX" width="100%" height="35"></td>
       <td>Expérience fluide et clavier-compatible</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic" alt="Mobile" width="50" height="35"></td>
+      <td><img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic" alt="Mobile" width="100%" height="35"></td>
       <td>Conception pensée pour les petits écrans</td>
     </tr>
   </tbody>
