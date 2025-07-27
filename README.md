@@ -1,4 +1,4 @@
-# *GameOn*
+## *GameOn*
 
 <p align="center">
   <img src="./assets/2025-06-14_01h21_47.png" alt="Page d’accueil GameOn" width="100%">
@@ -6,7 +6,7 @@
 
 ---
 
-## 📑 Table des matières
+# 📑 Table des matières
 
 - [Mission](#mission)  
 - [Objectif](#objectif)  
@@ -20,13 +20,13 @@
 
 ---
 
-## 🎯 Mission
+# 🎯 Mission
 
 Reprendre et finaliser le développement **Front-End** du formulaire d’inscription aux concours de la société **GameOn**, intégré dans une landing page responsive. Le travail effectué a consisté à mettre en place la validation complète des champs du formulaire, à améliorer l’expérience utilisateur (UX/UI), à gérer dynamiquement l’ouverture et la fermeture de la modale d’inscription, ainsi qu’à concevoir une page de remerciement élégante s’affichant après validation.
 
 ---
 
-## 🧭 Objectifs
+# 🧭 Objectifs
 
 - Développer une interface moderne et accessible  
 - Finaliser la logique JavaScript de validation  
@@ -35,7 +35,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ---
 
-## ✨ Points forts de l’interface
+# ✨ Points forts de l’interface
 
 - Menu **burger responsive**  
 - Bloc **Hero** avec slogan et CTA  
@@ -45,7 +45,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ---
 
-## 🛠️ Stacks techniques
+# 🛠️ Stacks techniques
 
 <table>
   <thead>
@@ -80,7 +80,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ---
 
-## ✅ Fonctionnalités et bonnes pratiques
+# ✅ Fonctionnalités et bonnes pratiques
 
 - Validation JavaScript complète : prénom, email, date de naissance, CGU, etc.  
 - Utilisation avancée du DOM : `querySelector`, `addEventListener`, etc.  
@@ -90,7 +90,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ---
 
-## ⚙️ Aspects techniques & automatisation
+# ⚙️ Aspects techniques & automatisation
 
 - Code modulaire et bien commenté  
 - Séparation des fichiers : `index.html`, `style.css`, `form.js`  
@@ -99,7 +99,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ---
 
-## 🔍 Points techniques spécifiques
+# 🔍 Points techniques spécifiques
 
 - Gestion dynamique de l’ouverture/fermeture de la **modale**  
 - Validation des données **sans rechargement de page**  
@@ -108,7 +108,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 - Accessibilité via clavier et lecteurs d’écran  
 
 ---
-## 🔗 Démo live
+# 🔗 Démo live
 
 <a href="https://abdellahsany.github.io/GameOn/" target="_blank">
   <img src="https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white" alt="Démo GameOn" width="150" height="35">
