@@ -58,7 +58,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
     <tr>
       <td>
         <div>
-          <img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic"
+          <img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana"
                alt="HTML5"
                style="width:140px; height:20px; border-radius:10px;">
         </div>
@@ -68,7 +68,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
     <tr>
       <td>
         <div>
-          <img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic"
+          <img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana"
                alt="CSS3"
                style="width:140px; height:20px; border-radius:10px;">
         </div>
@@ -78,7 +78,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
     <tr>
       <td>
         <div>
-          <img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=plastic"
+          <img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=plastic&labelFont=Verdana&messageFont=Verdana"
                alt="JavaScript"
                style="width:140px; height:20px; border-radius:10px;">
         </div>
@@ -88,7 +88,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
     <tr>
       <td>
         <div>
-          <img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=plastic"
+          <img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana"
                alt="UX"
                style="width:140px; height:20px; border-radius:10px;">
         </div>
@@ -98,7 +98,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
     <tr>
       <td>
         <div>
-          <img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic"
+          <img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana"
                alt="Mobile"
                style="width:140px; height:20px; border-radius:10px;">
         </div>
