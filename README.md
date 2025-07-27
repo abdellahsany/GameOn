@@ -141,5 +141,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 ### 🔗 Démo live
 
 <a href="https://abdellahsany.github.io/GameOn/" target="_blank">
-  <img src="https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white" alt="Démo live" width="140" height="20">
+  <img src="https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white&labelFont=DejaVu%20Sans&messageFont=DejaVu%20Sans&labelFontSize=12&messageFontSize=12"
+       alt="Démo live"
+       style="width:130px; height:17px; border-radius:10px;">
 </a>
