@@ -60,7 +60,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
                alt="HTML5"
-               style="width:130px; height:18px; border-radius:10px;">
+               style="width:130px; height:17px; border-radius:10px;">
         </div>
       </td>
       <td>Structuration sémantique du formulaire</td>
@@ -70,7 +70,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
                alt="CSS3"
-               style="width:130px; height:18px; border-radius:10px;">
+               style="width:130px; height:17px; border-radius:10px;">
         </div>
       </td>
       <td>Responsive design via media queries</td>
@@ -80,7 +80,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
                alt="JavaScript"
-               style="width:130px; height:18px; border-radius:10px;">
+               style="width:130px; height:17px; border-radius:10px;">
         </div>
       </td>
       <td>Interactions DOM & validation dynamique</td>
@@ -90,7 +90,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
                alt="UX"
-               style="width:130px; height:18px; border-radius:10px;">
+               style="width:130px; height:17px; border-radius:10px;">
         </div>
       </td>
       <td>Expérience fluide et clavier-compatible</td>
@@ -100,7 +100,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/Mobile--First-Approche-grey?logo=apple&logoColor=white&style=plastic&labelFont=Verdana&messageFont=Verdana&labelFontSize=12&messageFontSize=12"
                alt="Mobile"
-               style="width:130px; height:18px; border-radius:10px;">
+               style="width:130px; height:17px; border-radius:10px;">
         </div>
       </td>
       <td>Conception pensée pour les petits écrans</td>
