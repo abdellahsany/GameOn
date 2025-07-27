@@ -60,7 +60,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
         <div>
           <img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=plastic"
                alt="HTML5"
-               style="width:160px; height:20px; border-radius:10px;">
+               style="width:140px; height:20px; border-radius:10px;">
         </div>
       </td>
       <td>Structuration sémantique du formulaire</td>
