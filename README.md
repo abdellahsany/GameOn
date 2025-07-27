@@ -47,8 +47,6 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ### 🛠️ Stacks techniques
 
-<h2>🛠️ Stacks techniques</h2>
-
 <table>
   <thead>
     <tr>
@@ -62,7 +60,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
       <td>Structuration sémantique du formulaire</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=flat-square" alt="CSS3" width="150" height="35"></td>
+      <td><img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=flat-square" alt="CSS3" width="100" height="35"></td>
       <td>Responsive design via media queries</td>
     </tr>
     <tr>
