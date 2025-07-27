@@ -56,19 +56,19 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
   </thead>
   <tbody>
     <tr>
-      <td><div style="width:150px;"><img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=flat-square" alt="HTML5" style="width:130px; height:20px;"></div></td>
+      <td><div style="width:150px;"><img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=flat-square" alt="HTML5" style="width:140px; height:20px;"></div></td>
       <td>Structuration sémantique du formulaire</td>
     </tr>
     <tr>
-      <td><div style="width:150px;"><img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=flat-square" alt="CSS3" style="width:130px; height:20px;"></div></td>
+      <td><div style="width:150px;"><img src="https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=flat-square" alt="CSS3" style="width:140px; height:20px;"></div></td>
       <td>Responsive design via media queries</td>
     </tr>
     <tr>
-      <td><div style="width:150px;"><img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" style="width:130px; height:20px;"></div></td>
+      <td><div style="width:150px;"><img src="https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" style="width:140px; height:20px;"></div></td>
       <td>Interactions DOM & validation dynamique</td>
     </tr>
     <tr>
-      <td><div style="width:150px;"><img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=flat-square" alt="UX" style="width:130px; height:20px;"></div></td>
+      <td><div style="width:150px;"><img src="https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=flat-square" alt="UX" style="width:140px; height:20px;"></div></td>
       <td>Expérience fluide et clavier-compatible</td>
     </tr>
     <tr>
