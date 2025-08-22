@@ -92,5 +92,5 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 <a href="https://abdellahsany.github.io/GameOn/" target="_blank">
   <img src="https://img.shields.io/badge/Démo_Live-Cliquez_ici-2b303a?style=plastic&logo=github&logoColor=white&labelFont=DejaVu%20Sans&messageFont=DejaVu%20Sans&labelFontSize=12&messageFontSize=12"
        alt="Démo live"
-       style="width:130px; height:18px; border-radius:10px;">
+       style="width:130px; height:19px; border-radius:10px;">
 </a>
