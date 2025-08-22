@@ -50,13 +50,13 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 <a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
 
-|   Outils   | Fonctions |
-|:----------:|:---------:|
-| <div align="center"><span style="color:#E34F26; font-weight:bold">HTML5</span></div> | Structure et contenu des pages |
-| <div align="center"><span style="color:#1572B6; font-weight:bold">CSS3</span></div> | Mise en page responsive et design |
-| <div align="center"><span style="color:#F7DF1E; font-weight:bold">JavaScript</span></div> | Validation des champs et interactions dynamiques |
-| <div align="center"><span style="color:#000000; font-weight:bold">GitHub Pages</span></div> | Hébergement et déploiement en ligne |
-| <div align="center"><span style="color:#2C9ACD; font-weight:bold">W3C</span></div> | Validation et conformité HTML/CSS |
+| Outils | Fonctions |
+|--------|-----------|
+| <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure et contenu des pages |
+| <span style="color:#1572B6; font-weight:bold">CSS3</span> | Mise en page responsive et design |
+| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span> | Validation des champs et interactions dynamiques |
+| <span style="color:#000000; font-weight:bold">GitHub Pages</span> | Hébergement et déploiement en ligne |
+| <span style="color:#2C9ACD; font-weight:bold">W3C</span> | Validation et conformité HTML/CSS |
 
 ---
 
