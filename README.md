@@ -47,7 +47,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ### 🛠️ Stacks techniques
 
-| Technologie | Fonction |
+| Outils | Fonction |
 |-------------|----------|
 | <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure du contenu de la page |
 | <span style="color:#1572B6; font-weight:bold">CSS3</span> | Mise en forme et design responsive |
