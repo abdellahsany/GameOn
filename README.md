@@ -47,11 +47,11 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ### 🛠️ Stacks techniques
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Mobile First](https://img.shields.io/badge/Mobile--First-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=E34F26&style=flat-square&labelColor=00000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=1572B6&style=flat-square&labelColor=00000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=F7DF1E&style=flat-square&labelColor=00000000)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=61DAFB&style=flat-square&labelColor=00000000)
+![Mobile First](https://img.shields.io/badge/Mobile--First-4285F4?logo=googlechrome&logoColor=4285F4&style=flat-square&labelColor=00000000)
 
 ---
 
