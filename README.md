@@ -1,3 +1,5 @@
+## GameOn
+
 <p align="center">
   <img src="./assets/2025-06-14_01h21_47.png" alt="Page d’accueil GameOn" width="100%">
 </p>
