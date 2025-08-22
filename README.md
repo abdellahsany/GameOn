@@ -47,36 +47,13 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ### 🛠️ Stacks techniques
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left;">Technologie</th>
-      <th style="text-align:left;">Fonction</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>HTML5</td>
-      <td>Structuration sémantique du formulaire</td>
-    </tr>
-    <tr>
-      <td>CSS3</td>
-      <td>Responsive design via media queries</td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>Interactions DOM & validation dynamique</td>
-    </tr>
-    <tr>
-      <td>UX</td>
-      <td>Expérience fluide et clavier-compatible</td>
-    </tr>
-    <tr>
-      <td>Mobile-First</td>
-      <td>Conception pensée pour les petits écrans</td>
-    </tr>
-  </tbody>
-</table>
+| Technologie | Fonction |
+|-------------|----------|
+| ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white) | Structuration sémantique du formulaire |
+| ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white) | Responsive design via media queries |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black) | Interactions DOM & validation dynamique |
+| ![UX](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white) | Expérience fluide et clavier-compatible |
+| ![Mobile-First](https://img.shields.io/badge/Mobile--First-Approche-lightgrey?logo=apple&logoColor=black) | Conception pensée pour les petits écrans |
 
 ---
 
