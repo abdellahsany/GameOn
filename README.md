@@ -47,11 +47,11 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ### 🛠️ Stacks techniques
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?logo=prettier&style=for-the-badge)
-![ESLint](https://img.shields.io/badge/Lint-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Mobile First](https://img.shields.io/badge/Mobile--First-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge)
 
 ---
 
