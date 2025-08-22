@@ -55,6 +55,16 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 | <span style="color:#61DAFB; font-weight:bold">React</span> | Composants réutilisables et gestion du DOM virtuel |
 | <span style="color:#4285F4; font-weight:bold">Mobile First</span> | Conception adaptée aux écrans mobiles en priorité |
 
+### 🔧 Outils de développement
+
+| Outil | Fonction |
+|-------|----------|
+| <span style="color:#F05032; font-weight:bold">Git</span> | Gestion de versions et suivi du code |
+| <span style="color:#181717; font-weight:bold">GitHub</span> | Hébergement et collaboration sur le code |
+| <span style="color:#0078D4; font-weight:bold">VS Code</span> | Éditeur de code moderne et extensible |
+| <span style="color:#F7B93E; font-weight:bold">Prettier</span> | Formateur de code automatique |
+| <span style="color:#4B32C3; font-weight:bold">ESLint</span> | Analyse de code et détection d’erreurs |
+
 ---
 
 ### ✅ Fonctionnalités et bonnes pratiques
