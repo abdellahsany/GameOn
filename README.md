@@ -55,23 +55,6 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 | <span style="color:#61DAFB; font-weight:bold">React</span> | Composants réutilisables et gestion du DOM virtuel |
 | <span style="color:#4285F4; font-weight:bold">Mobile First</span> | Conception adaptée aux écrans mobiles en priorité |
 
-<!-- Badges non cliquables, taille fixe 140x18 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" width="70" height="17">
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" width="70" height="17">
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" width="70" height="17">
-&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" width="70" height="17">
-
-| Outils | Fonction |
-|-------------|----------|
-| <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure du contenu de la page |
-| <span style="color:#1572B6; font-weight:bold">CSS3</span> | Mise en forme et design responsive |
-| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span> | Dynamique, interactions et logique du formulaire |
-| <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" width="70" height="17">React</span> | Composants réutilisables et gestion du DOM virtuel |
-| <span style="color:#4285F4; font-weight:bold">Mobile First</span> | Conception adaptée aux écrans mobiles en priorité |
-
 ---
 
 ### ✅ Fonctionnalités et bonnes pratiques
