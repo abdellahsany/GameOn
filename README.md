@@ -47,11 +47,9 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ### 🛠️ Stacks techniques
 
-<span style="color:#E34F26; font-weight:bold">HTML5</span> •
-<span style="color:#1572B6; font-weight:bold">CSS3</span> •
-<span style="color:#F7DF1E; font-weight:bold">JavaScript</span> •
-<span style="color:#61DAFB; font-weight:bold">React</span> •
-<span style="color:#4285F4; font-weight:bold">Mobile First</span>
+| HTML5 | CSS3 | JavaScript | React | Mobile First |
+|-------|------|------------|-------|--------------|
+| <span style="color:#E34F26; font-weight:bold">HTML5</span> | <span style="color:#1572B6; font-weight:bold">CSS3</span> | <span style="color:#F7DF1E; font-weight:bold">JavaScript</span> | <span style="color:#61DAFB; font-weight:bold">React</span> | <span style="color:#4285F4; font-weight:bold">Mobile First</span> |
 
 ---
 
