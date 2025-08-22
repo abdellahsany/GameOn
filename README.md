@@ -9,25 +9,25 @@
 ### 📑 Table des matières
 
 - [Mission](#mission)  
-- [Objectif](#objectif)  
-- [Points forts de l’interface](#points-forts-de-linterface)  
+- [Objectifs](#objectifs)  
+- [Points forts de l’interface](#points-forts-interface)  
 - [Stacks techniques](#stacks-techniques)  
-- [Fonctionnalités et bonnes pratiques](#fonctionnalités-et-bonnes-pratiques)  
-- [Aspects techniques & automatisation](#aspects-techniques--automatisation)  
-- [Points techniques spécifiques](#points-techniques-spécifiques)  
-- [Accès au projet](#accès-au-projet)  
-- [Accès via QR code](#accès-via-qr-code)
+- [Fonctionnalités et bonnes pratiques](#fonctionnalites-pratiques)  
+- [Aspects techniques & automatisation](#aspects-techniques-automatisation)  
+- [Points techniques spécifiques](#points-techniques-specifiques)  
+- [Démo live](#demo-live)  
 
 ---
 
+<a id="mission"></a>
 ### 🎯 Mission
 
-Reprendre et finaliser le développement **Front-End** du formulaire d’inscription aux concours de la société **GameOn**, intégré dans une landing page responsive.
-
+Reprendre et finaliser le développement **Front-End** du formulaire d’inscription aux concours de la société **GameOn**, intégré dans une landing page responsive.  
 Le travail effectué a consisté à mettre en place la validation complète des champs du formulaire, à améliorer l’expérience utilisateur (UX/UI), à gérer dynamiquement l’ouverture et la fermeture de la modale d’inscription, ainsi qu’à concevoir une page de remerciement élégante s’affichant après validation.
 
 ---
 
+<a id="objectifs"></a>
 ### 🧭 Objectifs
 
 - Développer une interface moderne et accessible  
@@ -37,6 +37,7 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 
 ---
 
+<a id="points-forts-interface"></a>
 ### ✨ Points forts de l’interface
 
 - Menu **burger responsive**  
@@ -47,7 +48,10 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 
 ---
 
+<a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
+
+<div align="center">
 
 | Outils | Fonction |
 |:------:|:---------|
@@ -59,8 +63,11 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 | <div align="center"><span style="color:#000000; font-weight:bold">GitHub Pages</span></div> | Hébergement en ligne |
 | <div align="center"><span style="color:#2C9ACD; font-weight:bold">W3C</span></div> | Validation HTML & CSS conforme |
 
+</div>
+
 ---
 
+<a id="fonctionnalites-pratiques"></a>
 ### ✅ Fonctionnalités et bonnes pratiques
 
 - Validation JavaScript complète : prénom, email, date de naissance, CGU, etc.  
@@ -71,6 +78,7 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 
 ---
 
+<a id="aspects-techniques-automatisation"></a>
 ### ⚙️ Aspects techniques & automatisation
 
 - Code modulaire et bien commenté  
@@ -80,6 +88,7 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 
 ---
 
+<a id="points-techniques-specifiques"></a>
 ### 🔍 Points techniques spécifiques
 
 - Gestion dynamique de l’ouverture/fermeture de la **modale**  
@@ -89,6 +98,8 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 - Accessibilité via clavier et lecteurs d’écran  
 
 ---
+
+<a id="demo-live"></a>
 ### 🔗 Démo live
 
 <a href="https://abdellahsany.github.io/GameOn/" target="_blank">
