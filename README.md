@@ -47,13 +47,110 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ### 🛠️ Stacks techniques
 
-| Technologie | Fonction |
-|---|---|
-| ![HTML5 – Structure](assets/badges/html5_structure.svg) | Structuration sémantique du formulaire |
-| ![CSS3 – Responsive](assets/badges/css3_responsive.svg) | Responsive design via media queries |
-| ![JavaScript – Validation](assets/badges/javascript_validation.svg) | Interactions DOM & validation dynamique |
-| ![UX – Accessible](assets/badges/ux_accessible.svg) | Expérience fluide et clavier-compatible |
-| ![Mobile-First – Approche](assets/badges/mobile_first_approche.svg) | Conception pensée pour les petits écrans |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Technologie</th>
+      <th align="left">Fonction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <!-- HTML5 — STRUCTURE -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="220" height="36" role="img" aria-label="HTML5: STRUCTURE">
+          <title>HTML5: STRUCTURE</title>
+          <defs><clipPath id="r1"><rect width="220" height="36" rx="8" ry="8"/></clipPath></defs>
+          <g clip-path="url(#r1)">
+            <rect width="110" height="36" fill="#E34F26"/>
+            <rect x="110" width="110" height="36" fill="#4D4D4D"/>
+          </g>
+          <g font-family="DejaVu Sans,Verdana,Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
+            <text x="55"  y="23" fill="#FFFFFF">HTML5</text>
+            <text x="165" y="23" fill="#FFFFFF">STRUCTURE</text>
+          </g>
+        </svg>
+      </td>
+      <td>Structuration sémantique du formulaire</td>
+    </tr>
+
+    <tr>
+      <td>
+        <!-- CSS3 — RESPONSIVE -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="220" height="36" role="img" aria-label="CSS3: RESPONSIVE">
+          <title>CSS3: RESPONSIVE</title>
+          <defs><clipPath id="r2"><rect width="220" height="36" rx="8" ry="8"/></clipPath></defs>
+          <g clip-path="url(#r2)">
+            <rect width="110" height="36" fill="#1572B6"/>
+            <rect x="110" width="110" height="36" fill="#4D4D4D"/>
+          </g>
+          <g font-family="DejaVu Sans,Verdana,Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
+            <text x="55"  y="23" fill="#FFFFFF">CSS3</text>
+            <text x="165" y="23" fill="#FFFFFF">RESPONSIVE</text>
+          </g>
+        </svg>
+      </td>
+      <td>Responsive design via media queries</td>
+    </tr>
+
+    <tr>
+      <td>
+        <!-- JAVASCRIPT — VALIDATION -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="220" height="36" role="img" aria-label="JAVASCRIPT: VALIDATION">
+          <title>JAVASCRIPT: VALIDATION</title>
+          <defs><clipPath id="r3"><rect width="220" height="36" rx="8" ry="8"/></clipPath></defs>
+          <g clip-path="url(#r3)">
+            <rect width="110" height="36" fill="#F7DF1E"/>
+            <rect x="110" width="110" height="36" fill="#4D4D4D"/>
+          </g>
+          <g font-family="DejaVu Sans,Verdana,Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
+            <text x="55"  y="23" fill="#000000">JAVASCRIPT</text>
+            <text x="165" y="23" fill="#FFFFFF">VALIDATION</text>
+          </g>
+        </svg>
+      </td>
+      <td>Interactions DOM & validation dynamique</td>
+    </tr>
+
+    <tr>
+      <td>
+        <!-- UX — ACCESSIBLE -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="220" height="36" role="img" aria-label="UX: ACCESSIBLE">
+          <title>UX: ACCESSIBLE</title>
+          <defs><clipPath id="r4"><rect width="220" height="36" rx="8" ry="8"/></clipPath></defs>
+          <g clip-path="url(#r4)">
+            <rect width="110" height="36" fill="#2ECC71"/>
+            <rect x="110" width="110" height="36" fill="#4D4D4D"/>
+          </g>
+          <g font-family="DejaVu Sans,Verdana,Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
+            <text x="55"  y="23" fill="#FFFFFF">UX</text>
+            <text x="165" y="23" fill="#FFFFFF">ACCESSIBLE</text>
+          </g>
+        </svg>
+      </td>
+      <td>Expérience fluide et clavier-compatible</td>
+    </tr>
+
+    <tr>
+      <td>
+        <!-- MOBILE-FIRST — APPROCHE -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="220" height="36" role="img" aria-label="MOBILE-FIRST: APPROCHE">
+          <title>MOBILE-FIRST: APPROCHE</title>
+          <defs><clipPath id="r5"><rect width="220" height="36" rx="8" ry="8"/></clipPath></defs>
+          <g clip-path="url(#r5)">
+            <rect width="110" height="36" fill="#95A5A6"/>
+            <rect x="110" width="110" height="36" fill="#4D4D4D"/>
+          </g>
+          <g font-family="DejaVu Sans,Verdana,Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" text-anchor="middle">
+            <text x="55"  y="23" fill="#000000">MOBILE-FIRST</text>
+            <text x="165" y="23" fill="#FFFFFF">APPROCHE</text>
+          </g>
+        </svg>
+      </td>
+      <td>Conception pensée pour les petits écrans</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
