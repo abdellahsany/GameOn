@@ -47,36 +47,13 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ### 🛠️ Stacks techniques
 
-<table style="border: 2px solid #ccc; border-radius: 8px; border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
-  <thead>
-    <tr style="background: #2c3e50; color: white;">
-      <th style="padding: 12px; border: 1px solid #ccc; text-align: left;">Technologie</th>
-      <th style="padding: 12px; border: 1px solid #ccc; text-align: left;">Fonction</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ccc; color:#e44d26; font-weight: bold;">HTML5</td>
-      <td style="padding: 10px; border: 1px solid #ccc;">Structuration sémantique du formulaire</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ccc; color:#264de4; font-weight: bold;">CSS3</td>
-      <td style="padding: 10px; border: 1px solid #ccc;">Responsive design via media queries</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ccc; color:#f0db4f; font-weight: bold;">JavaScript</td>
-      <td style="padding: 10px; border: 1px solid #ccc;">Interactions DOM & validation dynamique</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ccc; color:#27ae60; font-weight: bold;">UX</td>
-      <td style="padding: 10px; border: 1px solid #ccc;">Expérience fluide et clavier-compatible</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border: 1px solid #ccc; color:#7f8c8d; font-weight: bold;">Mobile-First</td>
-      <td style="padding: 10px; border: 1px solid #ccc;">Conception pensée pour les petits écrans</td>
-    </tr>
-  </tbody>
-</table>
+| Technologie | Fonction |
+|---|---|
+| ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=for-the-badge) | Structuration sémantique du formulaire |
+| ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=for-the-badge) | Responsive design via media queries |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=for-the-badge) | Interactions DOM & validation dynamique |
+| ![UX](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=for-the-badge) | Expérience fluide et clavier-compatible |
+| ![Mobile-First](https://img.shields.io/badge/Mobile--First-Approche-lightgrey?logo=apple&logoColor=black&style=for-the-badge) | Conception pensée pour les petits écrans |
 
 ---
 
