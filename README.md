@@ -50,12 +50,14 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 ### 🛠️ Stacks techniques
 
 | Outils | Fonction |
-|-------------|----------|
-| <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure du contenu de la page |
-| <span style="color:#1572B6; font-weight:bold">CSS3</span> | Mise en forme et design responsive |
-| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span> | Dynamique, interactions et logique du formulaire |
-| <span style="color:#61DAFB; font-weight:bold">React</span> | Composants réutilisables et gestion du DOM virtuel |
-| <span style="color:#4285F4; font-weight:bold">Mobile First</span> | Conception adaptée aux écrans mobiles en priorité |
+|:------:|:---------|
+| <div align="center"><span style="color:#E34F26; font-weight:bold">HTML5</span></div> | Structure sémantique des pages |
+| <div align="center"><span style="color:#1572B6; font-weight:bold">CSS3</span></div> | Mise en page responsive et animations |
+| <div align="center"><span style="color:#CD6799; font-weight:bold">SASS</span></div> | Organisation et factorisation des styles |
+| <div align="center"><span style="color:#F7DF1E; font-weight:bold">JavaScript</span></div> | Dynamique et gestion des interactions |
+| <div align="center"><span style="color:#88CE02; font-weight:bold">GSAP</span></div> | Animations avancées et transitions |
+| <div align="center"><span style="color:#000000; font-weight:bold">GitHub Pages</span></div> | Hébergement en ligne |
+| <div align="center"><span style="color:#2C9ACD; font-weight:bold">W3C</span></div> | Validation HTML & CSS conforme |
 
 ---
 
