@@ -64,6 +64,14 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 &nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" width="70" height="17">
 
+| Outils | Fonction |
+|-------------|----------|
+| <span style="color:#E34F26; font-weight:bold">HTML5</span> | Structure du contenu de la page |
+| <span style="color:#1572B6; font-weight:bold">CSS3</span> | Mise en forme et design responsive |
+| <span style="color:#F7DF1E; font-weight:bold">JavaScript</span> | Dynamique, interactions et logique du formulaire |
+| <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" width="70" height="17">React</span> | Composants réutilisables et gestion du DOM virtuel |
+| <span style="color:#4285F4; font-weight:bold">Mobile First</span> | Conception adaptée aux écrans mobiles en priorité |
+
 ---
 
 ### ✅ Fonctionnalités et bonnes pratiques
