@@ -51,8 +51,6 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 <a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
 
-<div align="center">
-
 | Outils | Fonction |
 |:------:|:---------|
 | <div align="center"><span style="color:#E34F26; font-weight:bold">HTML5</span></div> | Structure sémantique des pages |
@@ -62,8 +60,6 @@ Le travail effectué a consisté à mettre en place la validation complète des 
 | <div align="center"><span style="color:#88CE02; font-weight:bold">GSAP</span></div> | Animations avancées et transitions |
 | <div align="center"><span style="color:#000000; font-weight:bold">GitHub Pages</span></div> | Hébergement en ligne |
 | <div align="center"><span style="color:#2C9ACD; font-weight:bold">W3C</span></div> | Validation HTML & CSS conforme |
-
-</div>
 
 ---
 
