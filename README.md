@@ -56,13 +56,13 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 | <span style="color:#4285F4; font-weight:bold">Mobile First</span> | Conception adaptée aux écrans mobiles en priorité |
 
 <!-- Badges non cliquables, taille fixe 140x18 -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" width="140" height="18">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" width="100" height="18">
 &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" width="140" height="18">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" width="100" height="18">
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" width="140" height="18">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" width="100" height="18">
 &nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" width="140" height="18">
+<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" width="100" height="18">
 
 ---
 
