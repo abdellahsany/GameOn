@@ -47,13 +47,20 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 
 ### 🛠️ Stacks techniques
 
-| Technologie | Fonction |
-|-------------|----------|
-| ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=for-the-badge) | Structuration sémantique du formulaire |
-| ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=for-the-badge) | Responsive design via media queries |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=for-the-badge) | Interactions DOM & validation dynamique |
-| ![UX](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=for-the-badge) | Expérience fluide et clavier-compatible |
-| ![Mobile-First](https://img.shields.io/badge/Mobile--First-Approche-lightgrey?logo=apple&logoColor=black&style=for-the-badge) | Conception pensée pour les petits écrans |
+- ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&logoColor=white&style=for-the-badge)  
+  _Structuration sémantique du formulaire_
+
+- ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue?logo=css3&logoColor=white&style=for-the-badge)  
+  _Responsive design via media queries_
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Validation-yellow?logo=javascript&logoColor=black&style=for-the-badge)  
+  _Interactions DOM & validation dynamique_
+
+- ![UX](https://img.shields.io/badge/UX-Accessible-brightgreen?logo=universal-access&logoColor=white&style=for-the-badge)  
+  _Expérience fluide et clavier-compatible_
+
+- ![Mobile-First](https://img.shields.io/badge/Mobile--First-Approche-lightgrey?logo=apple&logoColor=black&style=for-the-badge)  
+  _Conception pensée pour les petits écrans_
 
 ---
 
