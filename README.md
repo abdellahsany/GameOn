@@ -59,7 +59,7 @@ Reprendre et finaliser le développement **Front-End** du formulaire d’inscrip
 | <div align="center"><span style="color:#2C9ACD; font-weight:bold">W3C</span></div> | Validation et conformité HTML/CSS |
 
 |   Outils   | Fonctions |
-|:----------:|:----------|
+|:----------:|:---------:|
 | <div align="center"><span style="color:#E34F26; font-weight:bold">HTML5</span></div> | Structure et contenu des pages |
 | <div align="center"><span style="color:#1572B6; font-weight:bold">CSS3</span></div> | Mise en page responsive et design |
 | <div align="center"><span style="color:#F7DF1E; font-weight:bold">JavaScript</span></div> | Validation des champs et interactions dynamiques |
