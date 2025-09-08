@@ -50,14 +50,6 @@ Finalisation du développement Front-End du formulaire d’inscription **GameOn*
 <a id="stacks-techniques"></a>
 ### 🛠️ Stacks techniques
 
-| Outils | Fonctions |
-|:-------|:----------|
-Parfait, Abdellah. Voici une version enrichie de ta section **Stacks techniques** pour **GameOn**, avec des outils et fonctions supplémentaires souvent pertinents pour ce type de projet Front-End :
-
----
-
-### 🛠️ Stacks techniques
-
 | Outils                                                                          | Fonctions                                                        |
 | :------------------------------------------------------------------------------ | :--------------------------------------------------------------- |
 | <span style="color:#E34F26; font-weight:bold">HTML5</span>                      | Structure et contenu des pages                                   |
