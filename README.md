@@ -67,11 +67,6 @@ Finalisation du développement Front-End du formulaire d’inscription **GameOn*
 
 ---
 
-Si tu veux, je peux te **faire la même version enrichie pour FishEye et Ohmyfood**, pour que tous tes projets aient une section Stacks techniques complète et cohérente. Veux‑tu que je fasse ça ?
-
-
----
-
 <a id="fonctionnalites-pratiques"></a>
 ### ✅ Fonctionnalités et bonnes pratiques
 
