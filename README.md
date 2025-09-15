@@ -1,4 +1,4 @@
-## GameOn
+### GameOn
 
 <p align="center">
   <img src="./assets/gameon_welcome.png" alt="Page d’accueil GameOn" width="100%">
