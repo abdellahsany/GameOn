@@ -96,3 +96,10 @@ Finalisation du développement Front-End du formulaire d’inscription **GameOn*
 - Vérification d’âge (18 ans) avec `Date().getFullYear()`  
 - Comportements différenciés pour **radio / checkbox / input**  
 - Accessibilité via clavier et lecteurs d’écran  
+
+---
+
+<a id="demo-live"></a>
+### 🔗 Démo
+
+<a href="https://abdellahsany.github.io/GameOn/" target="_blank"> <img src="https://img.shields.io/badge/Démo-Cliquez_ici-FF0000?style=plastic&logo=github&logoColor=white&labelFont=DejaVu%20Sans&messageFont=DejaVu%20Sans&labelFontSize=12&messageFontSize=12" alt="Démo live" style="width:140px; height:18px; border-radius:10px;"> </a>
