@@ -105,5 +105,5 @@ Finalisation du développement Front-End du formulaire d’inscription **GameOn*
 <a href="https://abdellahsany.github.io/GameOn/" target="_blank">
   <img src="https://img.shields.io/badge/GameOn-Voir%20la%20démo-FF0000?style=flat-square&logo=github&logoColor=white"
        alt="Démo GameOn"
-       height="38">
+       height="43">
 </a>
